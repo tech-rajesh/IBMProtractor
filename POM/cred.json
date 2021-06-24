@@ -1,0 +1,7 @@
+{
+    "url": "https://opensource-demo.orangehrmlive.com/",
+    "user": "Admin",
+    "pass": "admin123",
+    "title": "HRM",
+    "userBlank":"Username cannot be empty"
+}

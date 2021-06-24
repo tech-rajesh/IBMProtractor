@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1624513903002' stop='1624513910472'>
+    <name>SmokeTest</name>
+    <title>SmokeTest</title>
+    <test-cases>
+        <test-case start='1624513903003' status='passed' stop='1624513910470'>
+            <name>TC_01</name>
+            <title>TC_01</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

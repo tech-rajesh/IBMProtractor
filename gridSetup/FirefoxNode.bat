@@ -1,0 +1,1 @@
+java -jar selenium-server-standalone-3.141.59.jar -role wd -hub http://localhost:4444/grid/register -browser "browserName=firefox"

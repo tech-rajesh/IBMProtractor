@@ -1,0 +1,39 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1624511829403' stop='1624511849935'>
+    <name>Handle Input box- non Angular Application</name>
+    <title>Handle Input box- non Angular Application</title>
+    <test-cases>
+        <test-case start='1624511831930' status='passed' stop='1624511836797'>
+            <name>Click on Search box</name>
+            <title>Click on Search box</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1624511836797' status='passed' stop='1624511841180'>
+            <name>Clear Text from Search box</name>
+            <title>Clear Text from Search box</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1624511841180' status='passed' stop='1624511845540'>
+            <name>Search- IBM Automation</name>
+            <title>Search- IBM Automation</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1624511845540' status='passed' stop='1624511849931'>
+            <name>verify Title</name>
+            <title>verify Title</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

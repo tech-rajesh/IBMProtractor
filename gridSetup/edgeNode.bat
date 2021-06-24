@@ -1,0 +1,1 @@
+java -Dwebdriver.edge.driver="msedgedriver_90.exe" -jar selenium-server-standalone-3.141.59.jar -role wd -port 5599 -hub http://localhost:4444/grid/register -browser "browserName=MicrosoftEdge,platform=WINDOWS,maxInstances=5" -maxSession 2

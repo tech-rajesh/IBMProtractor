@@ -1,0 +1,27 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1624514478620' stop='1624514486321'>
+    <name>SmokeTest</name>
+    <title>SmokeTest</title>
+    <test-cases>
+        <test-case start='1624514478622' status='pending' stop='1624514478633'>
+            <name>TC_01</name>
+            <title>TC_01</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Temporarily disabled with xit</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1624514478633' status='passed' stop='1624514486319'>
+            <name>TC_01</name>
+            <title>TC_01</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
