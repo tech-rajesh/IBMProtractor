@@ -25,7 +25,7 @@ it('TC_01', async function () {
 
     
     
-    console.log(await element(by.cssContainingText('.ng-binding','333')).getText());
+    console.log(await element(by.cssContainingText('.ng-binding','3334')).getText());
 
 })
 
